@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Defect_Panel.kmz</name>
+	<Style id="area1">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bf000000</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>Area Features</name>
+		<description>Area Features</description>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 136<BR><B>SHAPE_Leng</B> = 5.23073736878e-005<BR><B>SHAPE_Area</B> = 1.53389501495e-010<BR><B>NAME</B> = 2<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004760997,2.705226813,0 102.00476973,2.705224877,0 102.004773468,2.705241731,0 102.004764866,2.705243658,0 102.004760997,2.705226813,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 139<BR><B>SHAPE_Leng</B> = 5.21194222432e-005<BR><B>SHAPE_Area</B> = 1.51610749142e-010<BR><B>NAME</B> = 1<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004752486,2.705228702,0 102.004752742,2.705228644,0 102.004760997,2.705226813,0 102.004764866,2.705243658,0 102.004756263,2.705245586,0 102.004752486,2.705228702,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 557<BR><B>SHAPE_Leng</B> = 5.26178588395e-005<BR><B>SHAPE_Area</B> = 1.55987684358e-010<BR><B>NAME</B> = Z120<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004788412,2.705269881,0 102.00479728,2.705267911,0 102.004800972,2.705284775,0 102.004792228,2.705286759,0 102.004788412,2.705269881,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 559<BR><B>SHAPE_Leng</B> = 5.28479581602e-005<BR><B>SHAPE_Area</B> = 1.57638753759e-010<BR><B>NAME</B> = Z119<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004779593,2.70527184,0 102.004788412,2.705269881,0 102.004792228,2.705286759,0 102.004783291,2.705288787,0 102.004779593,2.70527184,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 561<BR><B>SHAPE_Leng</B> = 5.24865961217e-005<BR><B>SHAPE_Area</B> = 1.54163953492e-010<BR><B>NAME</B> = Z118<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004770916,2.705273768,0 102.004779593,2.70527184,0 102.004783291,2.705288787,0 102.004774644,2.705290749,0 102.004770916,2.705273768,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 570<BR><B>SHAPE_Leng</B> = 5.16768553961e-005<BR><B>SHAPE_Area</B> = 1.50877974616e-010<BR><B>NAME</B> = Y113<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004733973,2.705315672,0 102.004742707,2.705313701,0 102.004746306,2.705330252,0 102.004737639,2.705332177,0 102.004733973,2.705315672,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 761<BR><B>SHAPE_Leng</B> = 5.26683828606e-005<BR><B>SHAPE_Area</B> = 1.54408777288e-010<BR><B>NAME</B> = Z22<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.003925537,2.705461575,0 102.003934164,2.705459658,0 102.003937866,2.705476788,0 102.003929286,2.705478687,0 102.003925537,2.705461575,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 763<BR><B>SHAPE_Leng</B> = 5.36326991605e-005<BR><B>SHAPE_Area</B> = 1.62929237188e-010<BR><B>NAME</B> = Z21<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.003916446,2.705463595,0 102.003925537,2.705461575,0 102.003929286,2.705478687,0 102.003920685,2.70548059,0 102.003920212,2.705480694,0 102.003916446,2.705463595,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 800<BR><B>SHAPE_Leng</B> = 5.27716719248e-005<BR><B>SHAPE_Area</B> = 1.56129082859e-010<BR><B>NAME</B> = Y2<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.003756309,2.705532301,0 102.00376505,2.705530369,0 102.003768719,2.7055474,0 102.003759965,2.705549344,0 102.003756309,2.705532301,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 832<BR><B>SHAPE_Leng</B> = 5.32992087012e-005<BR><B>SHAPE_Area</B> = 1.58567473188e-010<BR><B>NAME</B> = 8<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.005192763,2.705275089,0 102.005201546,2.705273152,0 102.005205259,2.705290424,0 102.005196533,2.705292379,0 102.005192763,2.705275089,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 906<BR><B>SHAPE_Leng</B> = 5.23912905185e-005<BR><B>SHAPE_Area</B> = 1.53168665707e-010<BR><B>NAME</B> = 12<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004916039,2.705311338,0 102.004924594,2.705309425,0 102.004928355,2.705326408,0 102.00491971,2.705328322,0 102.004916039,2.705311338,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 909<BR><B>SHAPE_Leng</B> = 5.28856138169e-005<BR><B>SHAPE_Area</B> = 1.57628152026e-010<BR><B>NAME</B> = 11<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004907168,2.705313321,0 102.004916039,2.705311338,0 102.00491971,2.705328322,0 102.004911124,2.705330223,0 102.004910861,2.70533028,0 102.004907168,2.705313321,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 993<BR><B>SHAPE_Leng</B> = 5.28236489668e-005<BR><B>SHAPE_Area</B> = 1.55768925656e-010<BR><B>NAME</B> = 15<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004616233,2.705377715,0 102.004624888,2.705375793,0 102.00462862,2.705392905,0 102.004628444,2.705392945,0 102.004619921,2.705394852,0 102.004616233,2.705377715,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 999<BR><B>SHAPE_Leng</B> = 5.31428514901e-005<BR><B>SHAPE_Area</B> = 1.58308504397e-010<BR><B>NAME</B> = 13<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004598458,2.705381662,0 102.004607267,2.705379706,0 102.004610998,2.705396849,0 102.0046022,2.705398818,0 102.004598458,2.705381662,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 1004<BR><B>SHAPE_Leng</B> = 5.22152024833e-005<BR><B>SHAPE_Area</B> = 1.53211368087e-010<BR><B>NAME</B> = 1<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004591688,2.705434542,0 102.004600391,2.705432604,0 102.004604066,2.70544941,0 102.004595378,2.705451338,0 102.004591688,2.705434542,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 1136<BR><B>SHAPE_Leng</B> = 5.23159758724e-005<BR><B>SHAPE_Area</B> = 1.53675022414e-010<BR><B>NAME</B> = 5<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.004100812,2.705543756,0 102.004109526,2.705541798,0 102.004113199,2.705558641,0 102.004104531,2.705560608,0 102.004100812,2.705543756,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 1144<BR><B>SHAPE_Leng</B> = 5.23949860901e-005<BR><B>SHAPE_Area</B> = 1.55665427631e-010<BR><B>NAME</B> = 8<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.00407791,2.705523086,0 102.00408682,2.705521123,0 102.004090421,2.705537819,0 102.004081541,2.705539791,0 102.00407791,2.705523086,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 1197<BR><B>SHAPE_Leng</B> = 5.34373158437e-005<BR><B>SHAPE_Area</B> = 1.60445406159e-010<BR><B>NAME</B> = 13<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.003876322,2.705541822,0 102.003885189,2.705539861,0 102.003889024,2.705557038,0 102.003880096,2.705559023,0 102.003876322,2.705541822,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 1272<BR><B>SHAPE_Leng</B> = 5.21488822106e-005<BR><B>SHAPE_Area</B> = 1.52668268861e-010<BR><B>NAME</B> = 1<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.005198994,2.705391391,0 102.005207652,2.705389486,0 102.005211316,2.7054063,0 102.005202628,2.705408187,0 102.005198994,2.705391391,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 1623<BR><B>SHAPE_Leng</B> = 5.27816907830e-005<BR><B>SHAPE_Area</B> = 1.57163033020e-010<BR><B>NAME</B> = 4<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.0039138,2.70567724,0 102.00392264,2.705675277,0 102.003926249,2.705692205,0 102.003917365,2.705694185,0 102.0039138,2.70567724,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<description><![CDATA[Unknown Area Type<BR><BR><B>OBJECTID</B> = 1626<BR><B>SHAPE_Leng</B> = 5.21917580393e-005<BR><B>SHAPE_Area</B> = 1.51997092839e-010<BR><B>NAME</B> = 3<BR><B>Defect_pan</B> = YES]]></description>
+			<styleUrl>#area1</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							102.003905179,2.705679154,0 102.0039138,2.70567724,0 102.003917365,2.705694185,0 102.003908852,2.705696083,0 102.003905179,2.705679154,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
